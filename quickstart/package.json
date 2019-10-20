@@ -1,0 +1,13 @@
+{
+  "name": "osdu-tutorials-node",
+  "version": "0.0.1",
+  "description": "Quickstart examples for OSDU",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Vadzim Tsandzer",
+  "license": "Apache License, Version 2.0",
+  "dependencies": {
+    "express": "4.17.1",
+    "openid-client": "3.7.3"
+  }
+}
