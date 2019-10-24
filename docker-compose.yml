@@ -14,3 +14,4 @@ services:
             AUTH_META_URL: "meta config url"
             AUTH_CLIENT_ID: "client id"
             AUTH_CLIENT_SECRET: "client secret"
+            OSDU_API_BASE_URL: "base OSDU url"
